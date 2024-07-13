@@ -1,0 +1,122 @@
+{
+    "personal_information": {
+      "name": "Divija Agrawal",
+      "phone": "7020219800",
+      "email": ["divijaagrawal@gmail.com", "da7384@srmist.edu.in"],
+      "github": "https://github.com/Divijaaa"
+    },
+    "about_me": "Motivated and detail-oriented final-year student pursuing BTech in Cyber Security with a strong foundation in software development and data analytics. Proficient in various programming languages, back-end development, and web technologies. Experienced in data manipulation, analysis, and visualization using tools like Power BI. Demonstrated ability to manage and execute projects involving web scraping, database management, and cybersecurity frameworks. Adept in problem-solving and technical development, with a proven track record of effective teamwork and communication. Committed to leveraging my diverse skill set to provide innovative and secure solutions in software and data-driven environments.",
+    "education": [
+      {
+        "institution": "Bhartiya Vidya Mandir, Nagpur",
+        "year": "2018 – 2019",
+        "qualification": "Class Xth CBSE board",
+        "percentage": "97.4"
+      },
+      {
+        "institution": "Jain International School, Nagpur",
+        "year": "2020 – 2021",
+        "qualification": "Class XIIth CBSE board",
+        "percentage": "96"
+      },
+      {
+        "institution": "SRM Institute of Science and Technology, Kattankulathur",
+        "year": "2021 – Ongoing",
+        "qualification": "BTech CSE Cybersecurity",
+        "cgpa": "9.73"
+      }
+    ],
+    "technical_skills": {
+      "languages": ["C", "C++", "Python"],
+      "back_end": ["SQL", "NodeJS", "MongoDB"],
+      "web_technologies": ["HTML", "CSS", "JS", "ReactJS"],
+      "software_and_tools": ["Kali Linux", "VsCode", "Canva", "Adobe Photoshop", "Git", "Github", "Postman", "Figma", "Power Bi"],
+      "soft_skills": ["Leadership", "Time management", "Teamwork", "Adaptibility", "Problem Solving", "Creativity"]
+    },
+    "experience": [
+      {
+        "company": "Think Digital",
+        "role": "Event Manager",
+        "location": "Chennai",
+        "duration": "April 2022 – February 2024",
+        "responsibilities": ["Collaborated with technology team", "Learned soft skills for team work and time management"]
+      },
+      {
+        "company": "Paloalto Academy",
+        "role": "Cyber Security Virtual Internship",
+        "location": "Remote",
+        "duration": "May 2023 – July 2023",
+        "responsibilities": [
+          "Participated in a virtual internship, gaining hands-on experience in cybersecurity fundamentals.",
+          "Developed a strong understanding of cybersecurity frameworks, risk management, and mitigation strategies through practical applications in a virtual environment."
+        ]
+      },
+      {
+        "company": "PwC Launchpad",
+        "role": "Cyber Security CRR",
+        "location": "Remote",
+        "duration": "Feb 2024 – June 2024",
+        "responsibilities": [
+          "Gained hands-on experience in Python, Java, RDBMS, DevOps, and CyberSecurity through intensive training sessions.",
+          "Developed practical skills in software development, database management, and secure coding practices."
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "name": "Student Management System",
+        "technologies": ["MySQL"],
+        "date": "May 2023",
+        "details": [
+          "Spearheaded the design and development of a comprehensive student management system using MySQL as the database backend.",
+          "Created database schema to store and manage student information, academic records, and administrative data, ensuring smooth data retrieval and updates."
+        ]
+      },
+      {
+        "name": "Netflix clone",
+        "technologies": ["HTML", "CSS", "JS"],
+        "date": "July 2023",
+        "details": [
+          "Designed and developed the user interface (UI) for an Netflix clone, focusing on replicating key features like feed, profiles, and explore functionality.",
+          "Conducted thorough testing and debugging to ensure a smooth user experience, gaining valuable insights into web development and user interface design."
+        ]
+      },
+      {
+        "name": "Mass Mail Attack",
+        "technologies": ["Kali Linux", "SE Toolkit"],
+        "date": "November 2023",
+        "details": [
+          "The use of the Social-Engineering Toolkit (SET) for simulating mass mail campaigns reveals the potency of mass mailing attacks in manipulating user behavior.",
+          "The primary objectives are to assess the effectiveness of mass mailing as a social engineering technique, evaluate its impact on user awareness, and analyze the security implications associated with such simulated attacks."
+        ]
+      },
+      {
+        "name": "LokSabha Elections 2024",
+        "technologies": ["Web Scraping", "Selenium", "BeautifulSoup"],
+        "date": "July 2024",
+        "details": [
+          "Web Scraping: Extracts data from the 2024 Indian elections page using Selenium and BeautifulSoup.",
+          "Data Processing: Cleans and organizes scraped data into a structured format.",
+          "Data Storage: Saves processed data locally as CSV files for further analysis."
+        ]
+      },
+      {
+        "name": "HR Analysis Dashboard",
+        "technologies": ["Power Bi"],
+        "date": "July 2024",
+        "details": [
+          "Data Extraction and Transformation: Extracted and transformed HR data from various sources, ensuring accuracy and consistency for analysis.",
+          "Advanced Data Visualization: Created interactive dashboards and reports in Power BI, highlighting key HR metrics and trends through intuitive visualizations.",
+          "Insightful Data Analysis: Conducted thorough analysis of HR KPIs, providing actionable insights for workforce optimization and strategic decision-making."
+        ]
+      }
+    ],
+    "areas_of_interest": ["Cyber Security", "Cryptography", "Offensive Security", "UI/UX", "Data Analysis", "Data Scraping", "Data Visualization"],
+    "certifications": [
+      "Cisco Academy: Networking basics",
+      "AWS Academy: ML Foundations",
+      "Google: Foundations of cybersecurity",
+      "NPTEL: Ethical Hacking"
+    ]
+  }
+  
